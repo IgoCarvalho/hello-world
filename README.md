@@ -1,2 +1,4 @@
 # hello-world
-Meu primeiro repositório no GitHub
+Olá ue me chamo Igo
+
+eu tenho probleminhas
